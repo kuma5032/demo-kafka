@@ -1,0 +1,9 @@
+producers/.idea/*
+producers/.gradle/*
+producers/.tmp/*
+producers/caches/*
+producers/daemon/*
+producers/gradle/*
+producers/jdks/*
+producers/native/*
+producers/wrapper/*
